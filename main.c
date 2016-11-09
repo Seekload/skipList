@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<string.h>
 
-#define MAX_LEVEL 10 //最大层数hah
+#define MAX_LEVEL 10 //最大层数
 
 //节点
 typedef struct nodeStructure {
